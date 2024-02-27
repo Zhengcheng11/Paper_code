@@ -1,0 +1,6 @@
+It contains a total of code for  simulation and  implementation, where:
+(1) New_York_City is the dataset, which is also available at https://coronavirus.health.ny.gov/home.
+(2) Code of example (Sec. 6) is the code of implementation.
+(3) In the rest of the code names, 1,2,3 stands for the running order;
+     Uni, Inc stand for scenario 1 and scenario 2, respectively.
+     It should mentioned that the code of scenario 3 and scenario 4 only needs to change the value of ii in scenario 2. 
